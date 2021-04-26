@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: ansible_users
   author: Mark Harrison (Modified by SinglePlatform Engineering) (Further modified by Mathew Robinson)
   description: User creation role
   license: MIT
